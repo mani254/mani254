@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-<p><em>Founder and Developer Of <a href="https://www.linksquill.com/">LinksQuill</a></em></p>
+
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; About Me</h2>
 
