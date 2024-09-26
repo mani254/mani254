@@ -9,11 +9,11 @@
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; About Me</h2>
 
-- 🔭 I’m currently working on my updated portfolio and TalkBack AI.
+- 🔭 I’m currently working on my Portfoli website.
 - 🌱 I’m currently learning three.js.
 - 👯 I’m always available for collaboration on MERN stack projects.
 - 💬 Ask me about anything related to web development or check out my [portfolio](https://yourportfolio.com).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sai0421) | [Email](mailto:msmanikanta25@gmail.com)
 - ⚡Fun fact: I once spent hours debugging, only to realize I had a missing semicolon.
 
 <p align="left">
@@ -23,7 +23,7 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/sai0421" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
