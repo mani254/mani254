@@ -1,52 +1,94 @@
-<img src="assets/banner.png" alt="MERN stack developer git hub banner" style="width:100%;">
+<div align="center">
+<img src="assets/banner-2.png" alt="Full stack developer sai manikanta mamidi" style="width:100%;">
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 , I'm Sai Manikanta <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# Manikanta Mamidi
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### Full Stack Engineer · Systems · AI
 
+**I build scalable software, explore AI systems, and enjoy turning messy problems into clean architectures.**
 
+[🌐 Portfolio](https://manikanta.site)
 
+</div>
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; About Me</h2>
+---
 
-- 🔭 I’m currently working on my Portfoli website.
-- 🌱 I’m currently learning three.js.
-- 👯 I’m always available for collaboration on MERN stack projects.
-- 💬 Ask me about anything related to web development or check out my [portfolio](https://yourportfolio.com).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sai0421) | [Email](mailto:msmanikanta25@gmail.com)
-- ⚡Fun fact: I once spent hours debugging, only to realize I had a missing semicolon.
+## 👋 About Me
 
-<p align="left">
-  <strong>Available for Freelancing:</strong> I am skilled in MERN stack development and available for hire. I can help build responsive and dynamic web applications that meet your needs.
-</p>
+```text
+Full Stack Engineer
+├── Systems & Architecture
+├── Backend & Distributed Systems
+├── AI / LLM Applications
+└── Always experimenting with something new
+```
 
-## 🔗 Connect with Me
+* 🧠 Interested in **system design, distributed systems, scalability & performance**
+* 🤖 Exploring **LLMs, RAG, embeddings, agents & AI application architecture**
+* ⚙️ I care more about **how systems behave at scale** than how impressive a demo looks
+* 🧪 I like building weird things just to understand how they work
+* 🌱 Currently going deeper into **distributed systems + LLM internals**
+* 🔓 Gradually getting more involved in **open source**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sai0421" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
+---
 
-## GitHub Profile Stats
+## 🧩 My Stack
 
-| GitHub Stats | Contributions | Top Languages |
-| ------------ | ------------- | ------------- |
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mani254&show_icons=true) | ![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mani254) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mani254) |
+| Layer              | Technologies                                            |
+| ------------------ | ------------------------------------------------------- |
+| **Interface**      | React · Next.js · TypeScript · Tailwind                 |
+| **Backend**        | Node.js · NestJS · Fastify · Express                    |
+| **Data**           | MongoDB · PostgreSQL · MySQL · Redis                    |
+| **Infrastructure** | Docker · Linux · Git · Turborepo                        |
+| **AI**             | LLM APIs · RAG · Embeddings · Vector Search · AI Agents |
+| **Languages**      | TypeScript · JavaScript · Python                        |
 
+---
 
+## ⚡ How I Think
 
+> **Performance is a feature.**
 
+> **AI is another layer of software engineering — not magic.**
 
+> **Good architecture makes complex systems easier to reason about.**
+
+> **If the problem is messy, make the architecture less messy.**
+
+---
+
+## 🔬 Currently Exploring
+
+**LLM Internals** · **Transformers** · **Inference** · **AI Agents** · **Tool Use** · **Distributed Systems** · **System Design**
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mani254&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mani254&layout=compact&hide_border=true&theme=transparent" height="165">
+
+</div>
+
+---
+
+## 🛠️ Open Source
+
+Most of my interesting work currently lives in private repositories.
+
+I'm gradually moving toward contributing more of my experiments and ideas to **open source**.
+
+---
+
+<div align="center">
+
+### If you're building something difficult, let's talk.
+
+**Systems · AI · Architecture · Interesting Problems**
+
+[🌐 manikanta.site](https://manikanta.site)
+
+</div>
