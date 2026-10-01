@@ -7,7 +7,7 @@
 
 **I build scalable software, explore AI systems, and enjoy turning messy problems into clean architectures.**
 
-[🌐 Portfolio](https://manikanta.site)
+[🌐 Portfolio](https://mani-kanta.site)
 
 </div>
 
@@ -23,12 +23,12 @@ Full Stack Engineer
 └── Always experimenting with something new
 ```
 
-* 🧠 Interested in **system design, distributed systems, scalability & performance**
-* 🤖 Exploring **LLMs, RAG, embeddings, agents & AI application architecture**
-* ⚙️ I care more about **how systems behave at scale** than how impressive a demo looks
-* 🧪 I like building weird things just to understand how they work
-* 🌱 Currently going deeper into **distributed systems + LLM internals**
-* 🔓 Gradually getting more involved in **open source**
+- 🧠 Interested in **system design, distributed systems, scalability & performance**
+- 🤖 Exploring **LLMs, RAG, embeddings, agents & AI application architecture**
+- ⚙️ I care more about **how systems behave at scale** than how impressive a demo looks
+- 🧪 I like building weird things just to understand how they work
+- 🌱 Currently going deeper into **distributed systems + LLM internals**
+- 🔓 Gradually getting more involved in **open source**
 
 ---
 
@@ -89,6 +89,6 @@ I'm gradually moving toward contributing more of my experiments and ideas to **o
 
 **Systems · AI · Architecture · Interesting Problems**
 
-[🌐 manikanta.site](https://manikanta.site)
+[🌐 -](https://www.mani-kanta.site)
 
 </div>
